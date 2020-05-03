@@ -1,0 +1,12 @@
+Requirements Tools:
+
+	1. VS Code
+	2. Eclipse IDE
+
+Steps:
+
+	1. first run the back-end server (index.js) inside the "Fire Alarm Monitoring System\Web Client\backend" - {node index.js}
+	2. next run the front-end sever "Fire Alarm Monitoring System\Web Client" - {npm start}
+	3. all done. now you can see the web application is running.
+	4. for the desktop application, first run the server (server.js) inside the "Fire Alarm Monitoring System\Desktop Client\src\main\java"
+	5. next run the clientDashboard.java class and from this GUI admin can loging to the system.

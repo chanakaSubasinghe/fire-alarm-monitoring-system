@@ -1,0 +1,17 @@
+img {
+    width: 500px;
+}
+
+.main {
+    margin-top: 7%;
+}
+
+thead {
+    background-color: #ffaa64;
+}
+
+.fireActivated {
+    width: 70%;
+    color: red;
+    margin-left: 16%;
+}
